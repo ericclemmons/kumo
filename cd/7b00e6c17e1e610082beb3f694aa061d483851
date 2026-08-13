@@ -1,0 +1,23 @@
+.changeset/calm-links-select.md
+  s_8e1f276d8800df::t_be09341397516d 1-5
+packages/kumo/src/components/button/button.test.tsx
+  s_8e1f276d8800df::t_fe20daa494a1fe 62-68,217-223,300-310
+packages/kumo/src/components/button/button.tsx
+  s_8e1f276d8800df::t_480c912c850dac 483,504
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cd7b00e6c17e1e610082beb3f694aa061d483851",
+  "prompts": {},
+  "sessions": {
+    "s_8e1f276d8800df": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ffca5-809d-7133-9945-1e9e4ad1c7bd",
+        "model": "unknown"
+      },
+      "human_author": "Eric Clemmons <eclemmons@cloudflare.com>"
+    }
+  }
+}
